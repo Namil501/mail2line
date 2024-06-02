@@ -17,3 +17,4 @@
    - MAIL_ADDRESSはラインに通知したいメールのメールアドレスである。
 4. google apps scriptからsetScriptPropertiesを実行
 5. Code.gsのcreateTriggerを実行
+
